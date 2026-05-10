@@ -5,12 +5,12 @@ description: Quarkus Club is a community of developers passionate about modern J
 image: cover.jpg
 layout: post
 language: en
-tags: [performance, startup-time, jvm, cloud-native, fun]
+tags: [performance, startup-time, jvm, cloud-native]
 author: igfasouza
 toc: true
 ---
 
-![cover imagem](cover.jpg)
+![cover image](cover.jpg)
 
 > May the Force be with you. In cloud-native systems, however: startup time is the Force multiplier.
 
