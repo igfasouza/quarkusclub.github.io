@@ -5,10 +5,12 @@ description: Quarkus Club is a community of developers passionate about modern J
 image: cover.jpg
 layout: post
 language: en
-tags: [welcome, fun]
+tags: [performance, startup-time, jvm, cloud-native]
 author: igfasouza
 toc: true
 ---
+
+![cover image](cover.jpg)
 
 > May the Force be with you. In cloud-native systems, however: startup time is the Force multiplier.
 
@@ -157,6 +159,10 @@ It directly impacts:
 * user experience
 
 In modern architectures, fast startup is a competitive advantage.
+
+This is the Way
+
+![This is the Way](duke_mandalorian.jpg)
 
 ## Closing
 
