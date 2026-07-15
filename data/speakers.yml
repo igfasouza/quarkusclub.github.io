@@ -142,3 +142,11 @@
   name: Markus Eisele
   profile: https://www.linkedin.com/in/markuseisele/
   bio: Java Champion, O'Reilly Author, IBM and Red hat Developer Advocate.
+- id: nicolasfrankel
+  name: Nicolas Frankel
+  profile: https://www.linkedin.com/in/nicolasfrankel/
+  bio: Nicolas Fränkel is a technologist focusing on cloud-native technologies, DevOps, CI/CD pipelines, and system observability. His focus revolves around creating technical content, delivering talks, and engaging with developer communities to promote the adoption of modern software practices. With a strong background in software, he has worked extensively with the JVM, applying his expertise across various industries. In addition to his technical work, he is the author of several books and regularly shares insights through his blog and open-source contributions.
+- id: maximilianopizarro
+  name: Maximiliano Pizarro
+  profile: https://www.linkedin.com/in/maximiliano-gregorio-pizarro-consultor-it/
+  bio: Specialist Solution Architect at Red Hat LATAM. Based in Buenos Aires, Argentina. Open Source Contributor (Quarkus, Kubernetes Operators, Helm Charts). Helm Chart author — 15+ packages published on Artifact Hub (n8n, LibreChat, Jhipster Online...). Published author on Red Hat Developer Blog. First operator on OperatorHub — JHipster Online. Collaborates with Red Hat Communities of Practice OpenShift Operator & OpenShift Helm Chart. BSc in Information Systems — Universidad Nacional de Lanús
